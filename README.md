@@ -1,2 +1,2 @@
 # Torncore-Modules
-Working modules for Torncore
+WowTorn modules for use on Torncore 
